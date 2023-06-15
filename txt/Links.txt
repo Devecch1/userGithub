@@ -1,0 +1,7 @@
+Links de uso e código com formatação de perfil para o GitHub:
+
+Emojis: https://emojipedia.org
+
+Badges: https://dev.to/envoy_/150-badges-for-github-pnk
+
+Graphics: https://github.com/anuraghazra/github-readme-stats
